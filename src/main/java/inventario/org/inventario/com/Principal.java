@@ -14,7 +14,7 @@ public class Principal {
 
     public static void main(String[] args) {
         // Crear la ventana principal
-        JFrame mainFrame = new JFrame("Aplicación Principal");
+        JFrame mainFrame = new JFrame("Aplicación Principal"); //Interfaz principal
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         mainFrame.setSize(300, 200);
         mainFrame.setLayout(new FlowLayout());
