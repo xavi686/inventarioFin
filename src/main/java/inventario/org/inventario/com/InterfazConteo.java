@@ -90,7 +90,7 @@ class VerificarExistencias{
     }
 
     public Connection getConnection() {
-        return connection;
+        return connection; //conexión
     }
 
     public String getGrupo() {
